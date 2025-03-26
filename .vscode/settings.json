@@ -1,4 +1,5 @@
 {
     "files.encoding": "gb18030",
-    "cmake.outputLogEncoding": "utf8"
+    "cmake.outputLogEncoding": "auto",
+    "cmake.generator": "Ninja"
 }
